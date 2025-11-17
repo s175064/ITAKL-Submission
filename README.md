@@ -27,3 +27,12 @@ Repository Structure:
         smooth_psd_images_pre.m
         write_delta_psd_images.m
 README.md
+
+Required Python Libraries:
+matplotlib
+pandas
+seaborn
+numpy
+string
+sklearn
+jenkspy
