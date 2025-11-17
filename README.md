@@ -1,10 +1,14 @@
+# Region-Specific Multimodal Brain Imaging Correlates of Repetitive Head Impact Exposure in Non-Concussed High School Football Players
+
+## Description
 This repository contains all analysis code, preprocessing scripts, and figure-generation workflows used in the manuscript:
 “Region-Specific Multimodal Brain Imaging Correlates of Repetitive Head Impact Exposure in Non-Concussed High School Football Players.”
 The goal of this project is to reproducibly process multimodal MRI data, compute head-impact exposure metrics, and perform voxelwise
 statistical analyses linking RWE-Lin to changes in mean diffusivity (MD) and resting-state fMRI power spectral density (fMRI-PSD). 
 
-Repository Structure: 
-/Main 
+## Repository Structure: 
+```text
+/Main
     /Biomechanics - data and code used to generate 3D azimuth and elevation images
         angles.csv
         generate_azel_map.m
@@ -27,12 +31,29 @@ Repository Structure:
         smooth_psd_images_pre.m
         write_delta_psd_images.m
 README.md
+```
 
-Required Python Libraries:
-matplotlib
-pandas
-seaborn
-numpy
-string
-sklearn
-jenkspy
+### Dependencies
+* Python 3.8
+* Matlab 2015a
+* Spatial Parametric Mapping 8
+* FSL 6.0.3
+* R 4.3.4
+* matplotlib
+* pandas
+* seaborn
+* numpy
+* string
+* sklearn
+* jenkspy
+
+
+## Authors
+
+Contributors names and contact info
+
+James Holcomb 
+James.Holcomb@UTSouthwestern.edu
+
+
+
