@@ -4,7 +4,7 @@ The goal of this project is to reproducibly process multimodal MRI data, compute
 statistical analyses linking RWE-Lin to changes in mean diffusivity (MD) and resting-state fMRI power spectral density (fMRI-PSD). 
 
 Repository Structure: 
-/Main
+/Main /n
     /Biomechanics - data and code used to generate 3D azimuth and elevation images
         angles.csv
         generate_azel_map.m
