@@ -11,6 +11,7 @@ statistical analyses linking RWE-Lin to changes in mean diffusivity (MD) and res
 /Main
     /Biomechanics - data and code used to generate 3D azimuth and elevation images
         angles.csv
+        agnles_data_dictionary.csv
         generate_azel_map.m
         get_azimuth_func.m
         get_elevation_func.m
@@ -23,6 +24,7 @@ statistical analyses linking RWE-Lin to changes in mean diffusivity (MD) and res
         ITAKL_Python_Code_Neuroimage.ipynb
         ITAKL_code.R
         hs_final_deidentified.csv
+        hs_final_data_dictionary.csv
     /fMRI PSD - Code to process all fMRI data
         get_least_common_denominatorPSD.m
         make_PSD_images.m
