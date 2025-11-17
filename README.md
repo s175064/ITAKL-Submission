@@ -5,21 +5,21 @@ statistical analyses linking RWE-Lin to changes in mean diffusivity (MD) and res
 
 Repository Structure: 
 /Main
-    /Biomechanics
+    /Biomechanics - data and code used to generate 3D azimuth and elevation images
         angles.csv
         generate_azel_map.m
         get_azimuth_func.m
         get_elevation_func.m
-    /MEG
+    /MEG - code used to write percent change MEG images
         write_delta_MEG_band_images.m
-    /Mean Diffusivity
+    /Mean Diffusivity - code used to for mean diffusivity images
         get_CSV_values_MD.m
         writeMeanDiffusivityDeltasAndCreateArtifactFreeMask.m
-    /Stats & Graphs
+    /Stats & Graphs - All R and python stats code with associated csv dataset
         ITAKL_Python_Code_Neuroimage.ipynb
         ITAKL_code.R
         hs_final_deidentified.csv
-    /fMRI PSD
+    /fMRI PSD - Code to process all fMRI data
         get_least_common_denominatorPSD.m
         make_PSD_images.m
         prepareCONN.m
