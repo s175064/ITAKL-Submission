@@ -29,10 +29,10 @@ Repository Structure:
 README.md
 
 Required Python Libraries:
-matplotlib
-pandas
-seaborn
-numpy
-string
-sklearn
-jenkspy
+-matplotlib
+-pandas
+-seaborn
+-numpy
+-string
+-sklearn
+-jenkspy
