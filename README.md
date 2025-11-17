@@ -11,7 +11,7 @@ statistical analyses linking RWE-Lin to changes in mean diffusivity (MD) and res
 /Main
     /Biomechanics - data and code used to generate 3D azimuth and elevation images
         angles.csv
-        agnles_data_dictionary.csv
+        angles_data_dictionary.csv
         generate_azel_map.m
         get_azimuth_func.m
         get_elevation_func.m
