@@ -54,8 +54,9 @@ README.md
 
 Contributors names and contact info
 
-James Holcomb 
-James.Holcomb@UTSouthwestern.edu
+James Holcomb - James.Holcomb@UTSouthwestern.edu
+Natalie Bell - Natalie.Bell@UTSouthwestern.edu
+Elizabeth Davenport - Elizabeth.Davenport@UTSouthwestern.edu
 
 
 
