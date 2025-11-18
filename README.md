@@ -39,8 +39,8 @@ README.md
 * Python 3.8
 * Matlab 2015a
 * Spatial Parametric Mapping 8
-* FSL 6.0.3
-* R 4.3.4
+* FMRIb Software Library (FSL) 6.0.3
+* R 4.5.0
 * matplotlib
 * pandas
 * seaborn
