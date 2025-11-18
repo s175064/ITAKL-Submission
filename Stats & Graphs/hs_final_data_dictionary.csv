@@ -4,18 +4,18 @@ MD_Avg,Average % Change in MD across  signifcant voxels
 PSD_Avg,Average % Change in fMRI PSD across  signifcant voxels
 Sport,Sport Played by Each Subject (Football for most; different for controls)
 Biomech_Group,"Whether participants were in the high, mid, low, or control head impact exposure groups"
-Pos,"Whether participants were skill (S), linemen (L), or controls©"
+Pos,"Whether participants were skill (S), linemen (L), or controls (C)"
 Pos_Bin,"Numerical representation of position type (0=Skill, 1=Line, 2=Control)"
 Level_Bin,"Numerical representation of Junior Varsity  or Varsity (0=Junior Varsity 1=Varsity, 2=Control)"
 Lin,Linear Risk Weighted Exposure
 Num_impacts,Total Number of Head Impacts During Season
-TBS_Days,Time between scans (Days)
+TBS_Days,Time between scans (days)
 Age,Age at start of season (years old)
 Height,Height (inches)
 Weight,Weight (pounds)
 BMI,Body Mass Index
 Scanner,Scanner protocol before and after hardware upgrade (One = before upgrade; Two = after upgrade)
 DTI Protocol,DTI protocol before and after hardware upgrade (DPI1 = DTI Protocol 1; DPI2 = DTI Protocol 2)
-fMRI Protocol,fMRI protocol before and after hardware upgrade (FP1 = functional protocol 1; FP2 = functional protocol 2)
+fMRI Protocol,fMRI protocol before and after hardware upgrade (FP1 = Functional Protocol 1; FP2 = Functional Protocol 2)
 Scanner_Bin,Binarized scanner hardware before and after hardware upgrade (0 = before upgrade; 1 = after upgrade)
 Concussion_bin,"Whether participant had a prior concussion (0=no, 1=yes)"
