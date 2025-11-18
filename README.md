@@ -23,8 +23,8 @@ statistical analyses linking RWE-Lin to changes in mean diffusivity (MD) and res
     /Stats & Graphs - All R and python stats code with associated csv dataset
         ITAKL_Python_Code_Neuroimage.ipynb
         ITAKL_code.R
-        hs_final_deidentified.csv
         hs_final_data_dictionary.csv
+        hs_final_deidentified.csv
     /fMRI PSD - Code to process all fMRI data
         get_least_common_denominatorPSD.m
         make_PSD_images.m
