@@ -1,0 +1,5 @@
+min_el,minimum elevation angle for specific bin
+max_el,maximum elevation angle for specific bin
+min_az,minimum azimuth angle for specific bin
+max_az,maximum azimuth angle for specific bin
+Num,number of times a bin was found to be within the top 5 regions for all players
