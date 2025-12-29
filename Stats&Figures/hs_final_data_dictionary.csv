@@ -1,0 +1,18 @@
+﻿ID,Deidentified Subject ID
+Year,Year of sports participation
+MD_Avg,Average % Change in MD across  signifcant voxels
+PSD_Avg,Average % Change in fMRI PSD across  signifcant voxels
+Sport,Sport played by each subject (football for most; different for controls)
+Biomech_Group,"Whether participants were in the high, mid, low, or control head impact exposure groups"
+Pos,"Whether participants were skill (S), linemen (L), or controls (C)"
+Pos_Bin,"Numerical representation of position type (0=Skill, 1=Line, 2=Control)"
+Level_Bin,"Numerical representation of Junior Varsity  or Varsity (0=Junior Varsity 1=Varsity, 2=Control)"
+Lin,Linear Risk Weighted Exposure
+Num_impacts,Total number of head impacts during season
+TBS_Days,Time between scans (days)
+Age,Age at start of season (years old)
+BMI,Body Mass Index
+Scanner,DTI Protocol  (One = Protocol One; Two = Protocol Two)
+Scanner_Bin,"DTI Protocol (0=One, 1=Two) - Used for regression in Python"
+DTI Protocol,DTI protocol (DPI1 = DTI Protocol 1; DPI2 = DTI Protocol 2) - Used for Figure Generation
+Concussion_bin,"Whether participant had a prior diagnosed concussion (0=no, 1=yes)"
